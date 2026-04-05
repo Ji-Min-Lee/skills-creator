@@ -3,8 +3,8 @@
 모든 항목은 `fork_context=false`인 새 서브에이전트 스레드에서 독립적으로 실행했다.
 
 비교 대상:
-- Claude skill creator: `C:\Users\user\workspace\create-skills\.codex\skills\skill-creator\SKILL.md`
-- Codex skill creator: `C:\Users\user\.codex\skills\.system\skill-creator\SKILL.md`
+- Claude skill creator: `../../.codex/skills/skill-creator/SKILL.md`
+- Codex skill creator: `../../../../.codex/skills/.system/skill-creator/SKILL.md`
 
 ## 한눈에 보기
 

@@ -10,13 +10,13 @@ Claude용 `skill-creator`와 Codex용 `skill-creator`를 같은 프롬프트로 
 
 ## 비교 대상
 
-- Claude skill creator: `C:\Users\user\workspace\create-skills\.codex\skills\skill-creator\SKILL.md`
-- Codex skill creator: `C:\Users\user\.codex\skills\.system\skill-creator\SKILL.md`
+- Claude skill creator: `../../.codex/skills/skill-creator/SKILL.md`
+- Codex skill creator: `../../../../.codex/skills/.system/skill-creator/SKILL.md`
 
 ## 구성
 
-- [prompts.md](/C:/Users/user/workspace/create-skills/experiments/skill-creator-comparison/prompts.md): 항목별 동일 비교 프롬프트
-- [scorecard.md](/C:/Users/user/workspace/create-skills/experiments/skill-creator-comparison/scorecard.md): 결과 기록 및 채점 시트
+- [prompts.md](prompts.md): 항목별 동일 비교 프롬프트
+- [scorecard.md](scorecard.md): 결과 기록 및 채점 시트
 
 ## 실행 방법
 
